@@ -7,4 +7,5 @@
 * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
 * [第一周](di_yi_zhou.md)
    * 第二周
+   * 第二周
 
